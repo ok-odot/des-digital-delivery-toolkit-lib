@@ -32,7 +32,7 @@ Published/
 
 ## Related Repositories
 
-- [des-digital-okdot24sf-workspace-config](https://github.com/ok-odot/des-digital-okdot24sf-workspace-config) — Bentley OpenRoads / OpenSite Designer workspace configuration for ODOT 2024 standards.  (not available, coming soon...)
+- [des-digital-okdot24sf-workspace-config](https://github.com/ok-odot/des-digital-okdot24sf-workspace-config) — Bentley OpenRoads / OpenBridge workspace configuration for ODOT 2024 standards.  (not available, coming soon...)
 
 ## Usage
 
