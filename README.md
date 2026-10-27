@@ -8,15 +8,16 @@ This library serves as the published source for Digital Delivery guidance used a
 
 | Document | Version | Location |
 |----------|---------|----------|
-| Digital Delivery Guidelines | 1.1 | [`published/guidelines/`](published/guidelines/) |
-| Digital Delivery Modeling Standards | 1.0 | [`published/modeling-standards/`](published/modeling-standards/) |
-| CADD Standards | 1.0 | [`published/cadd-standards/`](published/cadd-standards/) |
-| ProjectWise User Guide | 1.0 | [`published/projectwise/`](published/projectwise/) |
-| Digital Delivery Glossary | 1.0 | [`published/glossary/`](published/glossary/) |
+| Digital Delivery Guidelines | 1.1 | [`Published/guidelines/`](Published/guidelines/) |
+| Digital Delivery Modeling Standards | 1.0 | [`Published/modeling-standards/`](Published/modeling-standards/) |
+| CADD Standards | 1.0 | [`Published/cadd-standards/`](Published/cadd-standards/) |
+| ProjectWise User Guide | 1.0 | [`Published/projectwise/`](Published/projectwise/) |
+| Digital Delivery Glossary | 1.0 | [`Published/glossary/`](Published/glossary/) |
 
 All documents are 508-compliant PDFs.
 
 ## Repository Structure
+
 
 published/
 ├── guidelines/
