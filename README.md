@@ -18,15 +18,14 @@ All documents are 508-compliant PDFs.
 
 ## Repository Structure
 
-
-published/
+```text
+Published/
 ├── guidelines/
 ├── modeling-standards/
 ├── cadd-standards/
 ├── projectwise/
 └── glossary/
-
-
+```
 
 - **published/** — Current official versions of each document.
 - Older versions are retained in Git history and can be retrieved via tags or releases.
