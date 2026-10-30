@@ -46,4 +46,4 @@ odotdigitaldelivery@odot.ok.gov
 
 ## License
 
-These documents are made freely available for anyone to use, copy, modify, and distribute.
+These documents are made freely available for anyone to use, copy, and distribute.
